@@ -16,4 +16,8 @@ if __name__ == '__main__':
 
 print("macht kein spaß")
 
+
+print("haha")
+print(45)
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
