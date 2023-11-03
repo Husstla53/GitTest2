@@ -20,4 +20,14 @@ print("macht kein spaß")
 print("haha")
 print(45)
 
+
+
+print(5)
+
+print("warum")
+
+print("macht Spaß")
+
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
